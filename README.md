@@ -11,6 +11,14 @@ Time spent: 30 minutes spent in total
 - [ ] Users are to see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
 
+<div>
+    <a href="https://www.loom.com/share/cb551ca2d0194e7289b889fbbd4d579f">
+    </a>
+    <a href="https://www.loom.com/share/cb551ca2d0194e7289b889fbbd4d579f">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/cb551ca2d0194e7289b889fbbd4d579f-dbb170eadbe2b028-full-play.gif">
+    </a>
+  </div>
+
 ## App Brainstorming (Step 4)
 
 - [ ] TikTok
